@@ -1,5 +1,9 @@
 # First-Fiddle-Website-Clone-Web-Devlopment-Project
 
+![image](https://user-images.githubusercontent.com/96885711/232097721-0d003fcb-83b6-44e2-b711-a31b8a63cd10.png)
+![image](https://user-images.githubusercontent.com/96885711/232098064-e1678e33-4850-460f-901f-18945b452c08.png)
+![image](https://user-images.githubusercontent.com/96885711/232098206-36dd89a4-7e2e-4ba9-8622-9ba9daa705f2.png)
+![image](https://user-images.githubusercontent.com/96885711/232098417-f2513f1a-de55-4af8-9222-dd04c07dfe1b.png)
 
 
 ## First Fiddle Website Clone
